@@ -82,11 +82,11 @@ z-index:1;
 .icon   {
 color:#ef8172;
 padding-bottom:5px;
-transform: scale(1.1);
 }
 
 .icon:hover {
 color:#ff4c68;
+transform: scale(1.1);
 }
 
 .feature-box {
