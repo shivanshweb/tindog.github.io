@@ -18,6 +18,9 @@ body {
 .ctn-btn{
   margin:5% 2% 5% 1%;
 }
+.ctn-btn:hover {
+  transform: scale(1.1);
+}
 .colored-section {
   background-color:#ff4c68;
 }
@@ -79,6 +82,7 @@ z-index:1;
 .icon   {
 color:#ef8172;
 padding-bottom:5px;
+transform: scale(1.1);
 }
 
 .icon:hover {
